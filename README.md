@@ -14,5 +14,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1155-product-sales-analysis-iii](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1155-product-sales-analysis-iii) |
 | [1801-average-time-of-process-per-machine](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->

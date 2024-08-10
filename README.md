@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/fakhriyalfians/leetcode-solved/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/fakhriyalfians/leetcode-solved/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1155-product-sales-analysis-iii) |
 | [1452-restaurant-growth](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1452-restaurant-growth) |

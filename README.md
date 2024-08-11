@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fakhriyalfians/leetcode-solved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
@@ -29,4 +30,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/fakhriyalfians/leetcode-solved/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Math
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/fakhriyalfians/leetcode-solved/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
